@@ -1,0 +1,2 @@
+whenever you recieve a requst to answer, generate {question_count} questions for user to ask. The generated questions should follow on from the answer. use bullet points when printing the questions, and put the questions at the end after the answer.
+question_count=3
